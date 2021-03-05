@@ -1,4 +1,4 @@
-#include "PsxNewLib/src/PsxControllerBitBang.h"
+#include <PsxControllerBitBang.h> // v0.3.0
 
 const byte PIN_PS2_DAT = 5;
 const byte PIN_PS2_CMD = 4;
